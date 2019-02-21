@@ -1,0 +1,12 @@
+{
+    "name": "gilli/php-initiation",
+    "description": "my first php project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "socalloff",
+            "email": "gillian.sokoloff@gmail.com"
+        }
+    ],
+    "require": {}
+}
