@@ -8,5 +8,12 @@
             "email": "gillian.sokoloff@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PHPInitiation\\" : "src/",
+            "MyVendor\\" : "src/",
+            "Baz\\" : "src/"
+        }
+    }
 }
